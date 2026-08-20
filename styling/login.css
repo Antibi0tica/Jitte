@@ -1,0 +1,35 @@
+body {
+    background-color:rgb(37, 34, 37);
+    padding-left: 35%;
+    padding-right: 35%;
+
+    padding-top: 10%;
+    
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.login-screen {
+    display: flex;
+
+    background-color: aliceblue;
+    
+    
+    flex-direction: column;
+
+    align-items: center;
+
+    border: 1px solid rgb(215, 145, 224);
+    border-radius: 20px;
+    padding-top: 5%;
+    padding-bottom: 10%;
+}
+
+.login-form {
+    column-gap: 50px;
+}
+
+
+
